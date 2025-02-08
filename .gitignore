@@ -36,3 +36,23 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Log files
+*.log
+logs/
+log/
+
+# Maven
+mvnw
+mvnw.cmd
+.mvn/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.swp
+*.swo
