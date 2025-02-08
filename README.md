@@ -8,6 +8,7 @@ Testovi pokrivaju osnovne HTTP metode: **GET, POST, PUT, DELETE** i koriste **Da
 1. **Pokreni lokalni API server** pomoću **JSON Servera**:
    ```sh
    json-server --watch db.json --port 7000
+   ```
 ## 📌 Tehnologije
 Java
 
